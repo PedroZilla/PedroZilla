@@ -46,9 +46,6 @@
 ###
 
 <h3 align="left">❤️ Pokémon, strong coffee, and learning</h3>
-###
----
-###
 <h2 align="left">🛠 Language and tools</h2>
 
 <div align="left">
