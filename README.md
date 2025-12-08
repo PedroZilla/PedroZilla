@@ -22,6 +22,12 @@
 
 ###
 
+<div align="center">
+  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHRkcWQxNXcweThsMWpycnh3YWw1ZHVha3d0Z2FiM3I1c21vbDc0YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/EJOdcxm52IWNq/giphy.gif"  />
+</div>
+
+###
+
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
