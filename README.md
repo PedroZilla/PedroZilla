@@ -22,27 +22,15 @@
 
 ###
 
-<table>
-  <tr>
-    <!-- Coluna do Venusaur (esquerda) -->
-    <td align="center" width="320">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHkxcW9XdCwxR1M5pYcmN3Ylw1Z1Vha3d0ZFIIM5I1C21vbDQvY2l1D12M9ypbNR1Cm5nF9naWZvN1FaMQ3Q9cw/EJOdoxmS2lNWq/giphy.gif" width="280"/>
-    </td>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHkxcW9XdCwxR1M5pYcmN3Ylw1Z1Vha3d0ZFIIM5I1C21vbDQvY2l1D12M9ypbNR1Cm5nF9naWZvN1FaMQ3Q9cw/EJOdoxmS2lNWq/giphy.gif" width="90" align="left" hspace="15">
 
-    <!-- Coluna do texto (direita) -->
-    <td valign="top">
-      <h3 align="left">👨‍💻 About Me</h3>
-      <p align="left">
-        I'm ... from ... <br>
-        💼 I'm working as ... <br>
-        📚 I'm currently learning ... <br>
-        ⚡ In my free time I ...
-      </p>
-
-      <!-- Suas linguagens e stats aqui embaixo, se quiser -->
-    </td>
-  </tr>
-</table>
+Hey lá 👋  
+Desenvolvedor Full Stack | Brasil  
+💼 Trabalhando com React, Node.js e .NET  
+📚 Aprendendo Rust e Go atualmente  
+⚡ No tempo livre: games, animes e café  
+<br><br>
+❤️ Pokémon, café forte e código limpo
 
 <h3 align="left">🛠 Language and tools</h3>
 
