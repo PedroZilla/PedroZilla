@@ -88,6 +88,4 @@
 
 
 
-<img src="https://raw.githubusercontent.com/PedroZilla/PedroZilla/output/snake.svg" alt="Snake animation" />
 
-###
